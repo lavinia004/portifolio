@@ -1,4 +1,5 @@
 Portfólio Profissional: Zootecnia
+
 Nome:Lavinia maria de melo paro 
 
 Sobre Mim:
@@ -17,8 +18,7 @@ Experiência Profissional:
 -Zoológicos
 -ONGs
 
-Habilidades e Competências
-
+Habilidades e Competências:
 -Nutrição e Alimentação Animal: Experiência em formulação de dietas balanceadas e programas alimentares.
 -Manejo de Rebanhos: Capacidade de gerir rebanhos de diferentes espécies, assegurando produtividade e bem-estar.
 -Saúde Animal: Conhecimento sobre prevenção e controle de doenças, bem como uso de medicamentos veterinários.
@@ -26,7 +26,6 @@ Habilidades e Competências
 -Gestão Agropecuária: Planejamento e controle de operações agropecuárias com foco em produtividade e sustentabilidade.
 -Tecnologia e Inovação: Uso de ferramentas de gestão de dados, como programas de rastreamento de rebanho e aplicativos de controle de saúde e alimentação animal.
 
-Objetivos Profissionais
-
+Objetivos Profissionais:
 -Objetivo de Carreira: Continuar minha formação e aprimoramento técnico na Zootecnia, visando atuar em grandes projetos de gestão agropecuária e inovação na alimentação animal.
 -Aspirar a uma posição de liderança em empresas de consultoria agropecuária ou gestão de rebanhos, contribuindo para o bem estar animal.
